@@ -6,7 +6,7 @@ This document explains the complete lifecycle of operating system boot processes
 
 ## 🔌 1. What Happens After Power Button is Pressed (Common for All Systems)
 
-### **A. Power-On**
+### **A. Power On**
 
 * Power supply initializes hardware components (CPU, RAM, motherboard, storage).
 
